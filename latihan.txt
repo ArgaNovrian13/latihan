@@ -4,3 +4,4 @@ Latihan Github
 - Membuat Forum Diskusi
 - Belajar Dropbox dan gogle docs
 - Membuat Vlog
+- Konsisten
